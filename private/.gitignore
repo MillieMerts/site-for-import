@@ -1,0 +1,5 @@
+tpm/
+*_old
+*_backup
+Thunbs.db
+*.DS_Store
